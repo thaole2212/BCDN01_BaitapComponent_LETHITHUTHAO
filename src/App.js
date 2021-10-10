@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import BaiTapThucHanhLayout from './BaiTapLayoutComponent/BaiTapThucHanhLayout';
+import BaiTapThucHanhLayout from './Components/BaiTapThucHanhLayout';
 
 function App() {
   return (
